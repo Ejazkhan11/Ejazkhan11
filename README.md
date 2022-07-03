@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ejaz khan. I am From Pakistan.
 - 👀 I’m interested in ... Blockchain job, Smart Contracts, Dapps, NFT,
-- 🌱 I’m currently learning ... Blockchain
+- 🌱 I’m currently Finding ... Blockchain Developer job
 - 💞️ I’m looking to collaborate on ...Company
 - 📫 How to reach me ...ejazmeetha007@gmail.com
 
